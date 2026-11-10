@@ -30,10 +30,6 @@ status    → learning. building. breaking things.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hirakdyuti&show_icons=true&hide_border=true&theme=matrix&count_private=true" height="150" alt="stats" />
-
-<br/>
-
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/CONNECT-00ff41?style=for-the-badge&labelColor=000" alt="Contact" />
 </a>
