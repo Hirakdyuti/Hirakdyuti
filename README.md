@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=62&duration=4000&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=900&height=100&lines=HIRAKDYUTI;%3E_SYSTEM+BREACHED_" alt="HIRAKDYUTI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&duration=4000&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=1000&height=100&lines=HIRAKDYUTI;%3E_SYSTEM+BREACHED_" alt="HIRAKDYUTI" />
 </a>
 
 <a href="https://git.io/typing-svg">
@@ -12,10 +12,10 @@
 
 ![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000)
 ![BD](https://img.shields.io/badge/LOC-BANGLADESH-00ff41?style=flat-square&labelColor=000)
-![Python](https://img.shields.io/badge/-Python-00ff41?style=flat-square&logo=python&logoColor=000&labelColor=000)
-![C++](https://img.shields.io/badge/-C++-00ff41?style=flat-square&logo=cplusplus&logoColor=000&labelColor=000)
-![Java](https://img.shields.io/badge/-Java-00ff41?style=flat-square&logo=openjdk&logoColor=000&labelColor=000)
-![Web](https://img.shields.io/badge/-WebDev-00ff41?style=flat-square&logo=html5&logoColor=000&labelColor=000)
+![Python](https://img.shields.io/badge/-Python-00ff41?style=flat-square&labelColor=000)
+![C++](https://img.shields.io/badge/-C++-00ff41?style=flat-square&labelColor=000)
+![Java](https://img.shields.io/badge/-Java-00ff41?style=flat-square&labelColor=000)
+![Web](https://img.shields.io/badge/-WebDev-00ff41?style=flat-square&labelColor=000)
 
 </div>
 
@@ -32,6 +32,10 @@ status    → learning. building. breaking things.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Hirakdyuti&show_icons=true&hide_border=true&theme=matrix&count_private=true" height="150" alt="stats" />
 
-[![Contact](https://img.shields.io/badge/> CONNECT-00ff41?style=for-the-badge&labelColor=000)](mailto:your.email@example.com)
+<br/>
+
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/CONNECT-00ff41?style=for-the-badge&labelColor=000" alt="Contact" />
+</a>
 
 </div>
