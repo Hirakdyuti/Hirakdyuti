@@ -10,7 +10,7 @@
 
 <br/>
 
-![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=000)
+![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-008F39?style=flat-square&labelColor=000)
 ![BD](https://img.shields.io/badge/LOC-BANGLADESH-00ff41?style=flat-square&labelColor=000)
 ![Python](https://img.shields.io/badge/-Python-00ff41?style=flat-square&labelColor=000)
 ![C++](https://img.shields.io/badge/-C++-00ff41?style=flat-square&labelColor=000)
@@ -30,8 +30,11 @@ status    → learning. building. breaking things.
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/CONNECT-00ff41?style=for-the-badge&labelColor=000" alt="Contact" />
+<a href="mailto:hirakdyuti1@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-hirakdyuti1%40gmail.com-008F39?style=for-the-badge&labelColor=000" alt="Email" />
+</a>
+<a href="https://discord.com/users/1524078319161573437">
+  <img src="https://img.shields.io/badge/DISCORD-CONNECT-008F39?style=for-the-badge&labelColor=000" alt="Discord" />
 </a>
 
 </div>
