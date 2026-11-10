@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=200&section=header&text=HIRAKDYUTI&fontSize=72&fontColor=00ff41&fontAlignY=45&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%3E+root%40hirakdyuti:~%24+whoami;%3E+ai+%7C+python+%7C+c%2B%2B+%7C+web;%3E+access+granted_" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=50&lines=%3E+root%40hirakdyuti:~%24+whoami;%3E+ai+%7C+python+%7C+c%2B%2B+%7C+web;%3E+access+granted_" alt="typing" />
 </a>
 
 <br/>
