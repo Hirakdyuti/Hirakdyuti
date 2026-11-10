@@ -5,17 +5,17 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%3E+root%40hirakdyuti:~%24+whoami;%3E+ai+%7C+python+%7C+c%2B%2B+%7C+web;%3E+access+granted_" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=800&color=008F39&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%3E+root%40hirakdyuti:~%24+whoami;%3E+ai+%7C+python+%7C+c%2B%2B+%7C+web;%3E+access+granted_" alt="typing" />
 </a>
 
 <br/>
 
 ![ONLINE](https://img.shields.io/badge/STATUS-ONLINE-008F39?style=flat-square&labelColor=000)
-![BD](https://img.shields.io/badge/LOC-BANGLADESH-00ff41?style=flat-square&labelColor=000)
-![Python](https://img.shields.io/badge/-Python-00ff41?style=flat-square&labelColor=000)
-![C++](https://img.shields.io/badge/-C++-00ff41?style=flat-square&labelColor=000)
-![Java](https://img.shields.io/badge/-Java-00ff41?style=flat-square&labelColor=000)
-![Web](https://img.shields.io/badge/-WebDev-00ff41?style=flat-square&labelColor=000)
+![BD](https://img.shields.io/badge/LOC-BANGLADESH-008F39?style=flat-square&labelColor=000)
+![Python](https://img.shields.io/badge/-Python-008F39?style=flat-square&labelColor=000)
+![C++](https://img.shields.io/badge/-C++-008F39?style=flat-square&labelColor=000)
+![Java](https://img.shields.io/badge/-Java-008F39?style=flat-square&labelColor=000)
+![Web](https://img.shields.io/badge/-WebDev-008F39?style=flat-square&labelColor=000)
 
 </div>
 
